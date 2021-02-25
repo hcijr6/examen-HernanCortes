@@ -1,0 +1,484 @@
+{
+  "grupos": [
+    {
+      "id": 1,
+      "codi": "2CFSW",
+      "nom": "2n DAW",
+      "cicle": "DAW",
+      "grau": "S",
+      "familia": "Informàtica"
+    },
+    {
+      "id": 5,
+      "codi": "2CFMK",
+      "nom": "2n SMX B",
+      "cicle": "SMX",
+      "grau": "M",
+      "familia": "Informàtica"
+    },
+    {
+      "id": 4,
+      "codi": "2CFMH",
+      "nom": "2n SMX A",
+      "cicle": "SMX",
+      "grau": "M",
+      "familia": "Informàtica"
+    },
+    {
+      "id": 3,
+      "codi": "1CFMJ",
+      "nom": "1r SMX B",
+      "cicle": "SMX",
+      "grau": "M",
+      "familia": "Informàtica"
+    },
+    {
+      "id": 6,
+      "codi": "1CFMI",
+      "nom": "1r SMX A",
+      "cicle": "SMX",
+      "grau": "M",
+      "familia": "Informàtica"
+    },
+    {
+      "id": 8,
+      "codi": "1CFST",
+      "nom": "1r DAW",
+      "cicle": "DAW",
+      "grau": "S",
+      "familia": "Informàtica"
+    },
+    {
+      "id": 12,
+      "codi": "1CFSR",
+      "nom": "1r DAM",
+      "cicle": "DAM",
+      "grau": "S",
+      "familia": "Informàtica"
+    },
+    {
+      "id": 11,
+      "codi": "2CFSU",
+      "nom": "2n DAM",
+      "cicle": "DAM",
+      "grau": "S",
+      "familia": "Informàtica"
+    }
+  ],
+  "alumnos": [
+    {
+      "id": 2,
+      "nia": 61176965,
+      "nom": "Adrián Belda Revert",
+      "grup": 0
+    },
+    {
+      "id": 3,
+      "nia": 68140978,
+      "nom": "Estefania Balaguer Rojano",
+      "grup": 1
+    },
+    {
+      "id": 4,
+      "nia": 68896951,
+      "nom": "Lucía Baudí Bernabeu",
+      "grup": 1
+    },
+    {
+      "id": 5,
+      "nia": 46905778,
+      "nom": "Siro Soler Rodríguez",
+      "grup": 1
+    },
+    {
+      "id": 6,
+      "nia": 30376015,
+      "nom": "Juan Sánchez Cortés",
+      "grup": 1
+    },
+    {
+      "id": 7,
+      "nia": 20948724,
+      "nom": "Andrea Corpas Chacón",
+      "grup": 1
+    },
+    {
+      "id": 8,
+      "nia": 49895923,
+      "nom": "Guillermo Cejudo Oltra",
+      "grup": 1
+    },
+    {
+      "id": 9,
+      "nia": 11699954,
+      "nom": "Bernardino Moliner Castelló",
+      "grup": 12
+    },
+    {
+      "id": 10,
+      "nia": 91440961,
+      "nom": "Javier Cantó Carro",
+      "grup": 12
+    },
+    {
+      "id": 11,
+      "nia": 19874815,
+      "nom": "Carles López Berenguer",
+      "grup": 12
+    },
+    {
+      "id": 12,
+      "nia": 49284707,
+      "nom": "Ana maría Carbonell Palmer",
+      "grup": 12
+    },
+    {
+      "id": 13,
+      "nia": 59894556,
+      "nom": "Adrián Ronda Alpiste",
+      "grup": 12
+    },
+    {
+      "id": 14,
+      "nia": 32601421,
+      "nom": "María Estela Martínez Luna",
+      "grup": 12
+    },
+    {
+      "id": 15,
+      "nia": 62920104,
+      "nom": "Laura Candela Gisbert",
+      "grup": 12
+    },
+    {
+      "id": 16,
+      "nia": 93275183,
+      "nom": "Paula Ramírez Mengual",
+      "grup": 12
+    },
+    {
+      "id": 17,
+      "nia": 68819278,
+      "nom": "Estela Francés Gascó",
+      "grup": 12
+    },
+    {
+      "id": 18,
+      "nia": 38395455,
+      "nom": "Francisco Rodríguez Pérez",
+      "grup": 3
+    },
+    {
+      "id": 19,
+      "nia": 92675454,
+      "nom": "Alba Giner Olcina",
+      "grup": 3
+    },
+    {
+      "id": 20,
+      "nia": 97552810,
+      "nom": "Josep Chiquillo Cantó",
+      "grup": 3
+    },
+    {
+      "id": 21,
+      "nia": 98090638,
+      "nom": "Miriam Cerdá Camps",
+      "grup": 3
+    },
+    {
+      "id": 22,
+      "nia": 97611742,
+      "nom": "Raquel Francés Ponce",
+      "grup": 3
+    },
+    {
+      "id": 23,
+      "nia": 85001175,
+      "nom": "Borja Rico Poveda",
+      "grup": 3
+    },
+    {
+      "id": 24,
+      "nia": 46198310,
+      "nom": "Jorge Jover Abellán",
+      "grup": 5
+    },
+    {
+      "id": 25,
+      "nia": 71423877,
+      "nom": "Roberto Caballero Cerdá",
+      "grup": 0
+    },
+    {
+      "id": 26,
+      "nia": 61905955,
+      "nom": "Gabriel Sanchís Ferrer",
+      "grup": 5
+    },
+    {
+      "id": 27,
+      "nia": 91489562,
+      "nom": "María consuelo Ferrando Domínguez",
+      "grup": 5
+    },
+    {
+      "id": 28,
+      "nia": 48012247,
+      "nom": "Daniel García Priego",
+      "grup": 4
+    },
+    {
+      "id": 29,
+      "nia": 35835882,
+      "nom": "María Ivorra Pérez",
+      "grup": 4
+    },
+    {
+      "id": 30,
+      "nia": 35047375,
+      "nom": "Laura Catalá Soler",
+      "grup": 4
+    },
+    {
+      "id": 31,
+      "nia": 32688860,
+      "nom": "Ferran Moratal Pérez",
+      "grup": 4
+    },
+    {
+      "id": 32,
+      "nia": 28813786,
+      "nom": "Jaime Domenech Ferre",
+      "grup": 4
+    },
+    {
+      "id": 33,
+      "nia": 87214241,
+      "nom": "Noemí Prats Salgado",
+      "grup": 4
+    },
+    {
+      "id": 34,
+      "nia": 80729848,
+      "nom": "María josefa Flor Moreno",
+      "grup": 4
+    },
+    {
+      "id": 35,
+      "nia": 76609648,
+      "nom": "Ángela Jornet Llinares",
+      "grup": 4
+    },
+    {
+      "id": 36,
+      "nia": 34119019,
+      "nom": "Estefanía Ruiz Navarro",
+      "grup": 4
+    },
+    {
+      "id": 37,
+      "nia": 20106854,
+      "nom": "Silvia Botí Martínez",
+      "grup": 4
+    },
+    {
+      "id": 38,
+      "nia": 86557363,
+      "nom": "Isabel beatriz Conejo Gutiérrez",
+      "grup": 0
+    },
+    {
+      "id": 39,
+      "nia": 64914933,
+      "nom": "Rocío Sánchez Eckhardt",
+      "grup": 6
+    },
+    {
+      "id": 40,
+      "nia": 21705808,
+      "nom": "Belén Segovia Fernández",
+      "grup": 6
+    },
+    {
+      "id": 41,
+      "nia": 87008335,
+      "nom": "Nora Pérez Ayuso",
+      "grup": 6
+    },
+    {
+      "id": 42,
+      "nia": 73889859,
+      "nom": "Andrea Llopis Delgado",
+      "grup": 6
+    },
+    {
+      "id": 43,
+      "nia": 61089615,
+      "nom": "Tania Miguel Seva",
+      "grup": 6
+    },
+    {
+      "id": 44,
+      "nia": 37893991,
+      "nom": "Paula Jiménez Vallés",
+      "grup": 6
+    },
+    {
+      "id": 45,
+      "nia": 96581271,
+      "nom": "Noemí García Barrachina",
+      "grup": 6
+    },
+    {
+      "id": 46,
+      "nia": 24900719,
+      "nom": "María julia Juan Guerrero",
+      "grup": 6
+    },
+    {
+      "id": 52,
+      "nia": 1732,
+      "nom": "Ana maría Cardona Márquez",
+      "grup": 11
+    },
+    {
+      "id": 53,
+      "nia": 7132,
+      "nom": "María Santamaría Payá",
+      "grup": 11
+    },
+    {
+      "id": 54,
+      "nia": 2387,
+      "nom": "Luís miguel Vivas Battistutta",
+      "grup": 11
+    },
+    {
+      "id": 55,
+      "nia": 2598,
+      "nom": "Antoni Mullor Leal",
+      "grup": 12
+    },
+    {
+      "id": 56,
+      "nia": 2956,
+      "nom": "Carlos Pastor Senabre",
+      "grup": 12
+    },
+    {
+      "id": 57,
+      "nia": 3134,
+      "nom": "Emilia Bernat Marco",
+      "grup": 12
+    },
+    {
+      "id": 58,
+      "nia": 3476,
+      "nom": "Lucía Soler Díaz",
+      "grup": 12
+    },
+    {
+      "id": 59,
+      "nia": 3898,
+      "nom": "Alexandra Ortíz Cánovas",
+      "grup": 8
+    },
+    {
+      "id": 60,
+      "nia": 4376,
+      "nom": "Carolina Ochoa Berenguer",
+      "grup": 8
+    },
+    {
+      "id": 61,
+      "nia": 4798,
+      "nom": "Saúl Soriano Sanjuán",
+      "grup": 8
+    },
+    {
+      "id": 62,
+      "nia": 5487,
+      "nom": "Carlos Navarro Blanes",
+      "grup": 8
+    },
+    {
+      "id": 63,
+      "nia": 5596,
+      "nom": "María carmen Catalá Gómez",
+      "grup": 0
+    },
+    {
+      "id": 64,
+      "nia": 6116,
+      "nom": "Sandra Martínez Oltra",
+      "grup": 0
+    },
+    {
+      "id": 65,
+      "nia": 6716,
+      "nom": "Mónica Moya Belda",
+      "grup": 0
+    },
+    {
+      "id": 66,
+      "nia": 7621,
+      "nom": "Carmen Martínez Jordá",
+      "grup": 0
+    },
+    {
+      "id": 67,
+      "nia": 7345,
+      "nom": "Souaad Bernal Muñoz",
+      "grup": 0
+    },
+    {
+      "id": 68,
+      "nia": 8167,
+      "nom": "Joana Rico Arribas",
+      "grup": 0
+    },
+    {
+      "id": 69,
+      "nia": 8495,
+      "nom": "Lucía Doménech Cerdá",
+      "grup": 0
+    },
+    {
+      "grup": 0,
+      "nia": "123123",
+      "nom": "qwe qweqw",
+      "id": 70
+    },
+    {
+      "nia": "1231",
+      "nom": "asd qwq pablo sdfsdf",
+      "grup": "2n DAW",
+      "id": 71
+    },
+    {
+      "nia": "1231",
+      "nom": "asd qwq pablo sdfsdf",
+      "grup": "2n DAW",
+      "id": 72
+    },
+    {
+      "nom": "estean asdas",
+      "nia": "1212",
+      "grup": 0,
+      "id": 73
+    },
+    {
+      "nom": "asd asd samuel asdasd",
+      "nia": "1231231",
+      "grup": 1,
+      "id": 74
+    },
+    {
+      "grup": 5,
+      "nia": "76579657657",
+      "nom": "gggggggggggggg",
+      "id": 75
+    }
+  ]
+}

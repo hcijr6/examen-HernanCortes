@@ -1,0 +1,85 @@
+{
+  "temas": [
+    {
+      "id": 1,
+      "nombre": "Infantil"
+    },
+    {
+      "id": 2,
+      "nombre": "Novela"
+    },
+    {
+      "id": 5,
+      "nombre": "Biografía"
+    },
+    {
+      "id": 8,
+      "nombre": "Informática"
+    }
+  ],
+  "autores": [
+    {
+      "id": 1,
+      "nombre": "Julio",
+      "apellidos": "Verne",
+      "nacionalidad": "Fra",
+      "img": "julioVerne.jpeg"
+    },
+    {
+      "id": 3,
+      "nombre": "Andreu S.",
+      "apellidos": "Tanenbaum",
+      "nacionalidad": "EEUU",
+      "img": "tanenbaum.jpeg"
+    },
+    {
+      "id": 5,
+      "nombre": "Hans Christian",
+      "apellidos": "Andersen",
+      "nacionalidad": "Din",
+      "img": "andersen.jpeg"
+    }
+  ],
+  "libros": [
+    {
+      "id": 2,
+      "ISBN": "0131485210",
+      "nombre": "Structured Computer Organization",
+      "tema": 8,
+      "autor": 3,
+      "img": "structuredComputerOrganization.jpeg"
+    },
+    {
+      "id": 3,
+      "ISBN": "0320313580",
+      "nombre": "El patito feo",
+      "tema": 1,
+      "autor": 5,
+      "img": "elPatitoFeo.jpeg"
+    },
+    {
+      "id": 4,
+      "ISBN": "0932232323",
+      "nombre": "La sirenita",
+      "tema": 1,
+      "autor": 5,
+      "img": "laSirenita.jpeg"
+    },
+    {
+      "id": 6,
+      "ISBN": "0378124589",
+      "nombre": "Un viaje a la Luna",
+      "tema": 2,
+      "autor": 1,
+      "img": "unViajeALaLuna.jpeg"
+    },
+    {
+      "id": 7,
+      "ISBN": "0190212175",
+      "nombre": "Cinco semanas en globo",
+      "tema": 2,
+      "autor": 1,
+      "img": "5semanasEnGlobo.jpeg"
+    }
+  ]
+}
